@@ -72,5 +72,5 @@ int main()
         rearrange(output, input, n_columns, columns);
         printf("Rearranged line: %s\n", output);
     }
-    return EXIT_SUCCESS
+    return EXIT_SUCCESS;
 }
