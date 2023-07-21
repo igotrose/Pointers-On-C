@@ -28,6 +28,6 @@
     [Alt text](image-7.png)
 
 11.参考答案!
-    [Alt text](image-8.png)
+    、[Alt text](image-8.png)
 
 12.声明一个负数，进行右移操作，对其进行原反补的计算，再运行输出这个结果就知道了。
