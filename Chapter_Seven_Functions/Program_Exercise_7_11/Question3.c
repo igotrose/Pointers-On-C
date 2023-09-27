@@ -1,4 +1,10 @@
 #include<stdio.h>
+/*
+字符串转数字和数字转字符串都基于下面的表达式
+0 + '0' = '0'
+1 + '1' = '1'
+2 + '2' = '2'
+*/
 
 void ascii_to_integer(char *string)
 {
