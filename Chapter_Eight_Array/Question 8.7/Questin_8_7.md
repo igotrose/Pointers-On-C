@@ -12,8 +12,8 @@
 **9**.int coinvalues[] = {1, 5, 10, 20, 100};  
 **10**.贴图，注意数组的存储是连续的 
 ![Alt text](image-2.png) 
-**11**.算的很是艰辛  
-![Alt text](image-3.png)
+**11**.算的很是艰辛    
+![Alt text](image-3.png)  
 **12**.主序存储是连续存储吗？！  
 **13**.贴图![Alt text](image-4.png)  
 **14**.用一个整型指针接收  
